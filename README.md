@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I am Yazid
 A Backend developer based in Lagos, Nigeria.
-- 📫 How to reach me: <a href='mailto:yazshrilld@gmail.com'>Send a mail!</a>
+- 📫 How to reach me: <a href='mailto:musa.yazid49@gmail.com'>Send a mail!</a>
 - 💬 Ask me about PHP, HTML, Bootstrap
 
 <!--
