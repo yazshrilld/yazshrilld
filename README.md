@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am Yazid
-A Backend developer based in Lagos, Nigeria.
+Frontend Developer / Shopify Developer / Chrome Extension Developer    based in Lagos, Nigeria.
 - 📫 How to reach me: <a href='mailto:musa.yazid49@gmail.com'>Send a mail!</a>
 - 💬 Ask me about PHP, HTML, Bootstrap
 
